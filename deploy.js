@@ -1,0 +1,1 @@
+const inboxContract = require("./compile")
